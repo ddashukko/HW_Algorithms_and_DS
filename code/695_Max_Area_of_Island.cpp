@@ -16,7 +16,7 @@ public:
                 }
             }
         }
-        return max_area;
+        return max_area; 
     }
     
     int dfs(vector<vector<int>>& grid, int r, int c, int rows, int cols) {

@@ -17,7 +17,7 @@ public:
                 ten++;
             } else {
                 if (five > 0 && ten > 0) {
-                    five--;
+                    five--; 
                     ten--;
                 } else if (five >= 3) {
                     five -= 3;
